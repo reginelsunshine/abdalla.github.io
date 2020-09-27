@@ -628,8 +628,8 @@ a {
 }
 .loader {
   display: inline-block;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   position: relative;
   border: 40px solid #Fff;
   animation: loader 4s infinite ease;
