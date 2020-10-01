@@ -656,5 +656,14 @@ a {
   100% { height: 0%;}
 }
 
+.responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:120px;
+  weight:70px;
+}
+
 .container{
 flex-flow: column wrap;}
