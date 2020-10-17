@@ -8,6 +8,33 @@ body {
 
 
 
+.w3-btn{
+	background-color:red;
+	color:black;
+	border-radius:7px;
+	font-size:20px;
+	margin:5px5px;
+	font-family:"arial black";
+	padding:8px 50px;
+}
+.w3-btn:hover{
+	background-color:#D2B48C;
+  color:black;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
