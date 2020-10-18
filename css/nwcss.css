@@ -12,12 +12,14 @@
   height: auto;
 }
 
-h3{
+div.ven{
 	font-family:helvetica;
 	margin: auto;
     width: 90%;
     border: 6px solid #0000FF;
     padding: 20px;
+	font-size:30px;
+	color:#ffcccc;
 }
 
 div.npt{
