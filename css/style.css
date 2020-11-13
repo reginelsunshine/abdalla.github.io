@@ -755,7 +755,23 @@ video {
 
 }
 
-.responsive{
-	width:100%;
-	height:auto;
+.img {
+   width: 500px; // current width
+   height: 500px; // current height
+   
+}
+
+@media (max-width:767px){
+ img {
+   width: 200px; // new width for screen <768px
+   height: 200px; // new height for screen <768px
+ }
+}
+
+@media (min-width:768px and max-width:1199px){
+   // code for device screen between 768 and 1200px
+}
+
+@media (min-width:1199px){
+   // code for device screen larger than 1199px
 }
