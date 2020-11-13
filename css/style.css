@@ -694,3 +694,75 @@ a {
 
 .container{
 flex-flow: column wrap;}
+
+
+
+
+div.ptitle{
+  background-color:rgb(255, 204, 204);
+  padding: 10px; 
+  text-align:center;
+  margin:10px;
+  color:black;
+}
+
+@media screen and (min-width: 601px) {
+  div.ptitle{
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.ptitle{
+    font-size: 30px;
+  }
+}
+
+div.ptext{
+	
+	margin:20px;
+	font-family:Helvetica;
+}
+
+div.warning{
+	color:black;
+	background-color:yellow;
+}
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+
+}
+
+
+.grid-item {
+  
+  padding: 20px 100px;
+  
+  
+}
+
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+.responsivelog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
