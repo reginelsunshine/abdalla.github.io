@@ -748,8 +748,8 @@ video {
 
 @media (max-width:767px){
  img {
-   width: 200px; // new width for screen <768px
-   height: 200px; // new height for screen <768px
+   width: 300px; // new width for screen <768px
+   height: 250px; // new height for screen <768px
  }
 }
 
@@ -759,4 +759,7 @@ video {
 
 @media (min-width:1199px){
    // code for device screen larger than 1199px
+}
+.img-fluid{
+	width:100%;
 }
