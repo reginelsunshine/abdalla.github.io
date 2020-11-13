@@ -722,10 +722,6 @@ div.warning{
 	background-color:yellow;
 }
 
-.responsiveim{
-  max-width: 100%;
-  height: auto;  
-}
 
 
 .grid-container {
@@ -759,3 +755,7 @@ video {
 
 }
 
+.responsive{
+	max-width:100%;
+	height:auto;
+}
