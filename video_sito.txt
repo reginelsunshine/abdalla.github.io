@@ -1,0 +1,5 @@
+<hr>
+	<center><FONT size=6 color="yellow" face="Impact">Attività</FONT></center>
+<video width="400" controls autoplay>
+  <source src="images/vivi.mp4" type="video/mp4">
+</video>
